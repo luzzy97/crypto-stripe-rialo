@@ -6,7 +6,7 @@ import { parseEther } from 'viem';
 import { useState, useEffect } from 'react';
 
 // Nanti kita ganti ini dengan alamat Smart Contract aslimu
-const CONTRACT_ADDRESS = "0x91652c65d58ab0Ac10E2ddab03C3cE481C344452"; 
+const CONTRACT_ADDRESS = "0x2669Bae4D055FceaB96Ff2be2B42F52F1054A8Cb"; 
 const CONTRACT_ABI = [
 	{
 		"inputs": [{"internalType": "string","name": "_orderId","type": "string"}],
